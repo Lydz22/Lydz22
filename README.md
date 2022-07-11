@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lydz22
-- 👀 I’m interested in learning more about Full stack engineering
-- 🌱 I’m currently learning Python3
+- 👀 I’m interested in learning more about Front End Engineering
+- 🌱 I’m currently completing the Front-End Engineering Career Path @ Codecademy!
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me lydia.andrew@yahoo.co.uk
 
